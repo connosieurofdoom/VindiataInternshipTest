@@ -1,4 +1,7 @@
-# General guidelines and information
+
+# Vindiata Test 
+
+## Problem Statement
 
 This is a business case - where your skills to evaluate a business problem will be evaluated.
 
@@ -25,3 +28,5 @@ In case you are unable to get to the final solution, please lay out the step-by-
 
 
 Please prepare a short report with your recommendations on Part A and Part B. Report can be in any format (though interactive mediums are always preferred). (*15 points*)
+
+## Answers are in the file Answers.ipynb
